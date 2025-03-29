@@ -1,10 +1,45 @@
 # React + Vite
+# 🎥 Anime App & 📞 Gestion des Contacts  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Description  
+Ce projet contient **deux applications distinctes** :  
+1. **Anime App** – Une application de gestion et d'affichage d'animes.
+  
+3. **Gestion des Contacts** – Une application CRUD permettant d'ajouter, modifier et supprimer des contacts avec React et Laravel.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# That's a anime website how can you find and search any anime , and see details of him , created by react js and bootstrap compenents and tailwinndCss style
-# twice project is about gestion for contacts how can you add , edit , search , update , show your contact created by react , react redux and bootstrap . 
+## 🛠 Technologies utilisées  
+📍 Site en ligne : akanime.netlify.app
+### **1️⃣ Anime App**  : 
+- **Frontend :**  React.js  
+- **Style :** Tailwind CSS / Bootstrap  
+- **Autres :** API REST  
+
+### **2️⃣ Gestion des Contacts (React )**  
+- **Frontend :** React.js  
+- **Style :** Tailwind CSS / Bootstrap  
+- **Gestion d'état :** Redux  
+
+---
+
+## 🎯 Fonctionnalités principales  
+
+### **✅ Anime App**  
+✔️ Affichage des animes avec leurs détails  
+✔️ Recherche et filtrage des animes  
+✔️ Interface utilisateur responsive  
+
+### **✅ Gestion des Contacts (React )**  
+✔️ Ajouter, modifier et supprimer des contacts  
+✔️ Rechercher et filtrer les contacts  
+✔️ Interface moderne avec React.js  
+
+---
+
+## 📦 Installation et exécution  
+
+### 🔹 Cloner le projet  
+```bash
+git clone https://github.com/Mouhlal/Anime-app-Gestion-des-Contacts.git
+cd --
