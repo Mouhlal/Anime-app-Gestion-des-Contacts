@@ -10,7 +10,7 @@ Ce projet contient **deux applications distinctes** :
 ---
 
 ## 🛠 Technologies utilisées  
-📍 Site en ligne : akanime.netlify.app
+📍 Site en ligne : [akanime.netlify.app](https://akanime.netlify.app/)
 ### **1️⃣ Anime App**  : 
 - **Frontend :**  React.js  
 - **Style :** Tailwind CSS / Bootstrap  
