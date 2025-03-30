@@ -5,7 +5,7 @@
 Ce projet contient **deux applications distinctes** :  
 1. **Anime App** – Une application de gestion et d'affichage d'animes.
   
-3. **Gestion des Contacts** – Une application CRUD permettant d'ajouter, modifier et supprimer des contacts avec React et Laravel.  
+3. **Gestion des Contacts** – Une application CRUD permettant d'ajouter, modifier et supprimer des contacts avec React .  
 
 ---
 
